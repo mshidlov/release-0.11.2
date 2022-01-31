@@ -3,16 +3,16 @@
   "appInfo": {
     "name": "My app-1",
     "description": "",
-    "version": "iafk3dl9",
-    "id": "ckz305rd242837101s66xwfv278",
-    "url": "https://app.amplication.com/ckz305rd242837101s66xwfv278",
+    "version": "qaamrevy",
+    "id": "ckz304yoe179701s6kdq6klex",
+    "url": "https://staging-oc.amplication.com/ckz304yoe179701s6kdq6klex",
     "settings": {
       "dbHost": "localhost",
       "dbName": "",
       "dbPassword": "admin",
       "dbPort": 5432,
       "dbUser": "admin",
-      "appId": "ckz305rd242837101s66xwfv278",
+      "appId": "ckz304yoe179701s6kdq6klex",
       "authProvider": "Jwt"
     }
   }
